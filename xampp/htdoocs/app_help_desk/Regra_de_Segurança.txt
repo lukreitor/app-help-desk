@@ -1,0 +1,4 @@
+c:/xampp
+	-app_help_desk (Diretório de arquivos sigilosos)
+
+c:/xampp/htdos/app_help_desk (diretório público)
